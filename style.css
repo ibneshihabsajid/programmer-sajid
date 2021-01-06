@@ -1,0 +1,77 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    
+}
+.blue-highlight{
+    color: blueviolet;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px; 
+}
+p{
+    color: dimgray;
+    
+}
+.half-width {
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+}
+.half-width img{
+width: 95%;
+}
+.buttom-link{
+    text-decoration: none;
+    background-image: linear-gradient(40deg, purple,blue );
+    color: white;
+    padding:10px 20px;
+    border-radius: 5px;
+}
+.top-side{
+ 
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+      
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.yalow{
+    color: slateblue;
+}
+ .single-experince{
+     box-shadow:10px 10px 40px gray;
+     border-radius: 5px;
+     height: 80%;
+     background-color: white;
+     
+ }
+ .experince-area{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+     background-position: left;
+     
+ }
+ #full-stack{
+     border-left: 7px solid;
+     border-image: linear-gradient(salmon, purple);
+     border-image-slice: 1;
+    
+ }
+ #junior{
+    border-left: 7px solid;
+    border-image: linear-gradient(darkblue, purple);
+    border-image-slice: 1;
+ }
+#last{
+    text-align: center;
+}
+     
+    
+    
